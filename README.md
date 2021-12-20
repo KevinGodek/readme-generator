@@ -1,9 +1,9 @@
 
   ## Title
-  stan
+  Readme Generator
 
   ## Description 
-  randy
+  javascript application that uses node.js to auto generate readme file
   
   ## Table of Contents
   1. [Installation](#Installation)
@@ -14,22 +14,22 @@
   6. [Questions](#Questions)
   
   ## Installation
-  video
+  Watch walkthrough video in repository readme
 
   ## Usage
-  run code
+  Open Git Bash and type in node index.js to begin application
 
   ## License
-  artistic-2.0 [![License: Artistic-2.0](https://img.shields.io/badge/License-Artistic%202.0-0298c3.svg)](https://opensource.org/licenses/Artistic-2.0)
+  MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Contributing
-  github
+  clone repository and add/change code 
 
   ## Tests
-  moohuhu
+  1. Open Git Bash. 2. Type 'node.js in command line'. 3. Follow prompts.
 
   ## Questions
-  sharon
-  staaaan
-  geeze@geeze.awwwgeeze.com
+  KevinGodek
+  kevingodek@LinkedIn
+  godekkevin@yahoo.com
   
