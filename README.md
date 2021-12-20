@@ -1,6 +1,6 @@
 
   ## Title
-  Readme Generator
+  readme-generator
 
   ## Description 
   javascript application that uses node.js to auto generate readme file
@@ -14,22 +14,22 @@
   6. [Questions](#Questions)
   
   ## Installation
-  Watch walkthrough video in repository readme
+  Clone github repository.
 
   ## Usage
-  Open Git Bash and type in node index.js to begin application
+  Open Git Bash and navigate to newly cloned repository. Once inside readme-generatory repository type in "node index.js" into command line and follow prompts.
 
   ## License
-  MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  None
 
   ## Contributing
-  clone repository and add/change code 
+  Clone repository and add/change code
 
   ## Tests
-  1. Open Git Bash. 2. Type 'node.js in command line'. 3. Follow prompts.
+  1. Open Git Bash 2. Type in "node index.js" into command line" 3. Follow prompts
 
   ## Questions
   KevinGodek
-  kevingodek@LinkedIn
-  godekkevin@yahoo.com
+  linkedin.com/in/kevin-godek-3b032717a
+  kevingodek@icloud.com
   
